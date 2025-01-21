@@ -52,9 +52,23 @@ Try the following calculation in the console:
 ### Document Object Modal(DOM)/(webpage)
 Can do the following:
  
--Chang HTML 
--Change CSS
--Do Actions
+-Chang HTML <br>
+-Change CSS <br>
+-Do Actions <br>
+now try the following in console <br>
+document.body.innerHTML='<i>Welcome to DigiSolutions'; <br>
+document.getElementByTagName <i> <br>
+document.getElementById('id'); <br>
+document.getElementByClassName('class');<br>
+
+### Building Chrome Extension
+- JS can create and add new features to the chrome.<br>
+- It can modifi and webpage and can interact with the web <br>
+- It can aaccess through API using chrome to built ni function <br>
+- Help customization in UX. <br>
+
+
+
 
  
 
