@@ -38,14 +38,14 @@ Happy learning!
 ### JavaScript In Console:
 a. JS allows real time editing and visualization of HTML, CSS and JavaScript viva inspect. <br>
 b. It runs the scripts and test its code in console.
-c. Debug errors and locate and fix it.
-d. Modifiy document object model(DOM) ellement on webpages.
-e. Try the following code in the console of any webpage:
-alert('Hi JS developer');
-alert('Welcome to DigiSolutions!');
-alert('My name Bakht');
+c. Debug errors and locate and fix it.<br>
+d. Modifiy document object model(DOM) ellement on webpages. <br>
+e. Try the following code in the console of any webpage: <br>
+alert('Hi JS developer'); <br>
+alert('Welcome to DigiSolutions!'); <br>
+alert('My name Bakht'); <br>
 #### JavaScript Can Do Maths Inconsole:
-Try the following calculation in the console:
+Try the following calculation in the console: <br>
 23 + 4 * 3 <br>
 10 -3 -3 /2 <br>
 2 + 4 - 2 * 3 / 5 <br>
