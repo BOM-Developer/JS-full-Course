@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+ 
+<title>debug, dom</title>
+</head>
+<body>
+  <h1> JavaScript Debug & DOM manipulation</h1>
+ <div id="demo">
+  <p>It locate and fix error and view error message</p>
+  <p>It Modify DOM change webpage elements</p>
+  <p>It change the HTML, CSS AND do actions</p>
+
+ </div>
+  <div class="tips">It locate and fix error and view error message</p>
+  <p>It Modify DOM change webpage elements</p>
+  <p>It change the HTML, CSS AND do actions</p>
+  </div>
+ <script>
+  
+  // alert(Find what is wrong with this code);
+  // alert('It is nice working like this');
+
+  // It change the HTML, CSS AND do actions e.g;
+  document.body.innerHTML ='This is just for your observation'
+  document.body.innerHTML= '<b>This is how the last font has changed to bold</b>'
+  document.getElementsByTagName('b')[0].style.fontSize ='57px';
+  document.getElementByClassName('tips')[1].click();
+  </script>
+  
+</body>
+</html>
